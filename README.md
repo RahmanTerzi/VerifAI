@@ -1,3 +1,7 @@
+VerifAI
+
+30.grup
+
 VerifAI, dijital görüntülerin orijinalliğini doğrulamak amacıyla geliştirilmiş;
 Generative AI (Üretken Yapay Zeka) modelleri (Stable Diffusion, Midjourney, DALL-E)
 tarafından oluşturulan piksellerdeki karakteristik izleri, difüzyon kalıntılarını ve
